@@ -1,6 +1,9 @@
 # 🤖 MC-Chat-1.0: Your Conversational Minecraft AI Expert
 
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-MC--LM--1.0--it-orange)](https://huggingface.co/Raziel1234/MC-LM-1.0-it).
+[![Model License](https://img.shields.io/badge/Hugging%20Face-MC--LM--1.0--it-orange)](https://huggingface.co/Raziel1234/MC-LM-1.0-it/tree/main)
+[![GitHub license](https://img.shields.io/badge/GitHub-blue.svg)](https://github.com/raziel-star/MC-Chat-1.0)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/raziel-star/MC-Chat-1.0/blob/main/LICENSE)
 
 ## ✨ Overview
 
@@ -52,11 +55,9 @@ The AI seamlessly handles technical Minecraft questions and general conversation
 
 User Query	Focus
 "Hello! Who created you?"	AI Identity and creator (Raziel AI Learning).
-"איך אני מכין שולחן כישוף?"	Step-by-step crafting instructions.
 "What are the best Y-levels for mining iron in 1.20?"	Strategic, up-to-date gameplay advice.
 "Why do Endermen teleport when it rains?"	Detailed explanation of mob mechanics.
 
-ייצוא אל Sheets
 
 ## 🤝 Contribution & Support
 We welcome feedback, issue reports, and contributions to help improve MC-Chat-1.0.
@@ -66,6 +67,6 @@ This project is licensed under the MIT License.
 
 ## links:
 * **[Download MC-LM-1.0-it Weights Here](https://huggingface.co/Raziel1234/MC-LM-1.0-it)**
-* **[Clone Repository!]()
+* **[Clone Repository!](https://github.com/raziel-star/MC-Chat-1.0)**
 
 **Created by Raziel AI Learning(me).**
